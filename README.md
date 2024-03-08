@@ -32,6 +32,11 @@ To play Fruit Ninja Desktop, follow these steps:
 6. **Game Over:**
    - The game ends when you lose all three lives.
    - Your final score will be displayed at the end of the game.
+## Sample Play
+
+
+https://github.com/ChristinaSubedi/Fruit-Ninja/assets/96991580/819fd346-086b-4b5d-8f8a-488d416f5554
+
 
 ## Development
 
