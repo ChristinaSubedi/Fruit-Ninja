@@ -16,7 +16,7 @@ public class SpawnerObjects : MonoBehaviour
     private IEnumerator SpawnRandomObject()
     {
         yield return new WaitForSeconds(1);
-        while (true)
+        while (FindObjectOfType<GameManager>().gameIsOver==false)
         {
             InstantiateRandomObject();
             yield return new WaitForSeconds(RandomRepeatrate());//fly fruit after a couple of seconds

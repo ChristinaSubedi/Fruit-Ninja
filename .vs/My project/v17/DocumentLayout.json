@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\My project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\lenovo\\my project\\assets\\prezip\\fruitninja\\scripts\\fruits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\prezip\\fruitninja\\scripts\\fruits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\lenovo\\my project\\assets\\prezip\\fruitninja\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\prezip\\fruitninja\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\lenovo\\my project\\assets\\prezip\\fruitninja\\scripts\\blade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\prezip\\fruitninja\\scripts\\blade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\Lenovo\\My project\\assets\\prezip\\fruitninja\\scripts\\bombscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\prezip\\fruitninja\\scripts\\bombscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\Lenovo\\My project\\assets\\prezip\\fruitninja\\scripts\\spawnerobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\prezip\\fruitninja\\scripts\\spawnerobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\lenovo\\my project\\assets\\prezip\\fruitninja\\scripts\\fruits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\prezip\\fruitninja\\scripts\\fruits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\Lenovo\\My project\\assets\\prezip\\fruitninja\\scripts\\blade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\prezip\\fruitninja\\scripts\\blade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Blade.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\My project\\Assets\\Prezip\\FruitNinja\\Scripts\\Blade.cs",
               "RelativeDocumentMoniker": "Assets\\Prezip\\FruitNinja\\Scripts\\Blade.cs",
@@ -35,6 +43,32 @@
               "ViewState": "AQIAAAoAAAAAAAAAAAAzwBQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-07T23:40:37.312Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\My project\\Assets\\Prezip\\FruitNinja\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Prezip\\FruitNinja\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\My project\\Assets\\Prezip\\FruitNinja\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Prezip\\FruitNinja\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T14:10:41.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BombScript.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\My project\\Assets\\Prezip\\FruitNinja\\Scripts\\BombScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Prezip\\FruitNinja\\Scripts\\BombScript.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\My project\\Assets\\Prezip\\FruitNinja\\Scripts\\BombScript.cs",
+              "RelativeToolTip": "Assets\\Prezip\\FruitNinja\\Scripts\\BombScript.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T12:45:23.683Z",
               "EditorCaption": ""
             },
             {
@@ -45,19 +79,20 @@
               "RelativeDocumentMoniker": "Assets\\Prezip\\FruitNinja\\Scripts\\SpawnerObjects.cs",
               "ToolTip": "C:\\Users\\Lenovo\\My project\\Assets\\Prezip\\FruitNinja\\Scripts\\SpawnerObjects.cs",
               "RelativeToolTip": "Assets\\Prezip\\FruitNinja\\Scripts\\SpawnerObjects.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwA4AAAAAAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBIAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T22:46:25.118Z"
+              "WhenOpened": "2024-03-07T22:46:25.118Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Fruits.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\My project\\Assets\\Prezip\\FruitNinja\\Scripts\\Fruits.cs",
               "RelativeDocumentMoniker": "Assets\\Prezip\\FruitNinja\\Scripts\\Fruits.cs",
               "ToolTip": "C:\\Users\\Lenovo\\My project\\Assets\\Prezip\\FruitNinja\\Scripts\\Fruits.cs",
               "RelativeToolTip": "Assets\\Prezip\\FruitNinja\\Scripts\\Fruits.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCYAAAACAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAAuwDQAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-07T21:51:17.338Z",
               "EditorCaption": ""
