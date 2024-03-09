@@ -26,12 +26,12 @@ To play Fruit Ninja Desktop, follow these steps:
 
 5. **Game Objective:**
    - Slice as many fruits as you can to score points.
-   - Avoid touching the bombs, as they will cost you a life.
+   - Avoid touching the bombs, as the game ends then.
    - Don't let the fruit fall without slicing, as it will also result in losing a life.
 
 6. **Game Over:**
-   - The game ends when you lose all three lives.
-   - Your final score will be displayed at the end of the game.
+   - The game ends when you lose all three lives or slice a bomb.
+   - You can replay at the end of the game.
 ## Sample Play
 
 
